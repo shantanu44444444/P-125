@@ -1,0 +1,45 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 4px 2px 1px rgb(6, 253, 171);
+
+}
+
+.note{
+    font-size: 15px;
+    color: rgb(34, 33, 33);
+}
+
+.note:hover{
+    font-size: 16.2px;
+    color: rgb(255, 196, 0);
+}
+
+.Copy_right_footer{
+    position:fixed ;
+    color: lightyellow;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    background-color: grey;
+}
+
+.Copy_right_footer:hover{
+    background-color: hotpink;
+    color: rgb(0, 250, 133);
+}
+
+canvas{
+    box-shadow: 4px 2px 1px aquamarine;
+    border-radius: 20px;
+    border: 4px ridge whitesmoke;
+}
+
+video{
+    box-shadow: 4px 2px 1px aquamarine;
+    border-radius: 20px;
+    border: 4px ridge whitesmoke;
+    background-color: #22342f;
+}
